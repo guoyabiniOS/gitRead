@@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 # prints out a greet
 def hello
-  puts 'hello world'
+  puts 'hello'
 end
 
 hello()
